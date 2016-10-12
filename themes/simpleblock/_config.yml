@@ -1,0 +1,50 @@
+## Services
+google_analytics:
+duoshuo:
+
+## Meta
+rss: https://jysperm.me/atom.xml
+favicon: /favicon.png
+icon: /favicon.png
+source_url:
+license:
+  name: 'CC BY-NC-SA 3.0'
+  url: 'http://creativecommons.org/licenses/by-nc-sa/3.0/cn'
+
+## Menus
+menus:
+  'Home': /
+
+right_menus:
+##  'RSS': /atom.xml
+##  'fork on Github':
+##    target: '_blank'
+##    href: 'hexo-theme-simpleblock'
+
+## Banners && Widgets
+banners:
+##  jade: |
+##    a(href='https://github.com/jysperm/hexo-theme-simpleblock') 与精子同款的博客主题 simpleblock 现已发布！
+
+widgets:
+  -
+    markdown: |
+      技术栈：
+
+      * JAVA
+      * PHP
+      * 服务器
+
+  -
+    tags: true
+
+  -
+    archives: true
+
+  -
+    copyright: true
+
+## SNS (Work in progress)
+sns:
+  qq: '416148030'
+  github: 'rubberboy'
